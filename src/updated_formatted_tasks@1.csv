@@ -1,0 +1,61 @@
+source,target,type
+Land Ocean Classification,Land Cover Classification,Other
+Land Cover Classification,Temperature Estimation,Climate Action
+Temperature Estimation,Temperature Forecasting,Climate Action
+Land Cover Classification,Elevation Estimation,Other
+Normalised Difference Vegetation Index,Tree Detection,Life on Land
+Elevation Estimation,Canopy Height,Life on Land
+Normalised Difference Vegetation Index,Canopy Height,Life on Land
+Tree Detection,Canopy Height,Life on Land
+Canopy Height,Aboveground Biomass,Life on Land
+Aboveground Biomass,Fire Scar Identification,Climate Action
+Land Cover Classification,Cropland Classification,Zero Hunger
+Normalised Difference Vegetation Index,Cropland Classification,Zero Hunger
+Normalised Difference Vegetation Index,Precipitation Estimation,Clean Water and Sanitation
+Precipitation Estimation,Precipitation Forecasting,Clean Water and Sanitation
+Cropland Classification,Drought Estimation,Climate Action
+Temperature Estimation,Drought Estimation,Climate Action
+Precipitation Estimation,Drought Estimation,Climate Action
+Drought Estimation,Drought Forecasting,Climate Action
+Temperature Forecasting,Drought Forecasting,Climate Action
+Precipitation Forecasting,Drought Forecasting,Climate Action
+Aboveground Biomass,Wildfire Forecasting,Climate Action
+Temperature Forecasting,Wildfire Forecasting,Climate Action
+Drought Forecasting,Wildfire Forecasting,Climate Action
+Temperature Forecasting,Tornado Forecasting,Climate Action
+Precipitation Forecasting,Tornado Forecasting,Climate Action
+Temperature Forecasting,Hurricane Risk Forecasting,Climate Action
+Precipitation Forecasting,Hurricane Risk Forecasting,Climate Action
+Precipitation Forecasting,Flood Risk Forecasting,Clean Water and Sanitation
+Precipitation Estimation,Landslide Risk Forecasting,Climate Action
+Precipitation Forecasting,Landslide Risk Forecasting,Climate Action
+Land Ocean Classification,Sea Ice Mapping,Climate Action
+Sea Ice Mapping,Sea Ice Forecasting,Climate Action
+Temperature Forecasting,Sea Ice Forecasting,Climate Action
+Land Ocean Classification,Coral Reef Mapping,Life Under Water
+Coral Reef Mapping,Coral Reef Forecasting,Life Below Water
+Temperature Forecasting,Coral Reef Forecasting,Life Below Water
+Land Cover Classification,Degree of Urbanisation,Sustainable Cities and Communities
+Degree of Urbanisation,Electricity Access Estimation,Affordable and Clean Energy
+Degree of Urbanisation,Education Attainment Estimation,Quality Education
+Degree of Urbanisation,GDP per capita Estimation,Decent Work and Economic Growth
+Education Attainment Estimation,Monthly Income Estimation,Decent Work and Economic Growth
+GDP per capita Estimation,Monthly Income Estimation,Decent Work and Economic Growth
+Monthly Income Estimation,Rent Estimation,Sustainable Cities and Communities
+GDP per capita Estimation,Air Quality Index Estimation,Sustainable Cities and Communities
+Air Quality Index Estimation,Air Quality Index Forecasting,Sustainable Cities and Communities
+GDP per capita Estimation,Water Index Estimation,Clean Water and Sanitation
+Drought Estimation,Water Index Estimation,Clean Water and Sanitation
+Degree of Urbanisation,Deforestation Mapping,Life on Land
+Tree Detection,Deforestation Mapping,Life on Land
+Deforestation Mapping,Deforestation Forecasting,Life on Land
+Monthly Income Estimation,Child Mortality Estimation,Good Health and Well-Being
+Water Index Estimation,Child Mortality Estimation,Good Health and Well-Being
+GDP per capita Estimation,Women BMI Estimation,Good Health and Well-Being
+Degree of Urbanisation,Brick Kiln Detection,Decent Work and Economic Growth
+GDP per capita Estimation,Sanitation Index Estimation,Clean Water and Sanitation
+Water Index Estimation,Sanitation Index Estimation,Clean Water and Sanitation
+Child Mortality Estimation,Life Expectancy Estimation,Good Health and Well-Being
+Life Expectancy Estimation,Human Development Index Estimation,Good Health and Well-Being
+Education Attainment Estimation,Human Development Index Estimation,Good Health and Well-Being
+GDP per capita Estimation,Human Development Index Estimation,Good Health and Well-Being

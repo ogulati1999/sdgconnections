@@ -1,0 +1,42 @@
+﻿task,Primary Dataset,Link,Update Frequency,Annotation Source
+Land Ocean Classification,ICESat-2,https://icesat-2.gsfc.nasa.gov/,91 days,Direct
+Normalised Difference Vegetation Index,MODIS,https://modis.gsfc.nasa.gov/data/dataprod/mod13.php,16 days,Direct
+Land Cover Classification,CORINE Land Cover Dataset,https://land.copernicus.eu/en/products/corine-land-cover,Every 6 years (last 2018),Direct
+Temperature Estimation,ERA-5,https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5,Hourly,Direct + Extrapolated
+Temperature Forecasting,ERA-5,https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5,Hourly,Direct + Extrapolated
+Elevation Estimation,Copernicus DEM,https://spacedata.copernicus.eu/collections/copernicus-digital-elevation-model,Single product (2010 - 2015),Direct (via radar)
+Tree Detection,,,,
+Canopy Height,GEDI L2A,https://lpdaac.usgs.gov/products/gedi02_av002/,Daily,Direct
+Aboveground Biomass,GEDI L4A,https://daac.ornl.gov/GEDI/guides/GEDI_L4A_AGB_Density.html,Daily,Direct
+Fire Scar Identification,MODIS Burned Area Product,https://modis.gsfc.nasa.gov/data/dataprod/mod45.php,16 days,Direct
+Cropland Classification,CropHarvest,https://openreview.net/forum?id=JtjzUXPEaCu,,Aggregation of 21 datasets
+Precipitation Estimation,CHIRPSv2,https://climatedataguide.ucar.edu/climate-data/chirps-climate-hazards-infrared-precipitation-station-data-version-2,Monthly,Direct
+Precipitation Forecasting,CHIRPSv2,https://climatedataguide.ucar.edu/climate-data/chirps-climate-hazards-infrared-precipitation-station-data-version-2,Monthly,Direct
+Drought Estimation,Drought Monitor,https://droughtmonitor.unl.edu/,Weekly,Direct
+Drought Forecasting,Drought Monitor,https://droughtmonitor.unl.edu/,Weekly,Direct
+Wildfire Forecasting,FireRisk,https://arxiv.org/pdf/2303.07035v2,Single product (2010 - 2015),Direct
+Tornado Forecasting,NCDC Storm Events Database,https://catalog.data.gov/dataset/ncdc-storm-events-database2,Single product (2011 - 2016),Direct
+Flood Risk Forecasting,,,,
+Landslide Risk Forecasting,Global Fatal Landslide Database,https://www.arcgis.com/home/item.html?id=53cffc14c5a74a608503fb64a6f6c7e1,Single product (2004 - 2017),Direct
+Sea Ice Mapping,Copernicus Sea Ice Database,https://climate.copernicus.eu/sea-ice,Monthly,Direct
+Sea Ice Forecasting,Copernicus Sea Ice Database,https://climate.copernicus.eu/sea-ice,Monthly,Direct
+Coral Reef Mapping,,,,
+Coral Reef Forecasting,,,,
+Degree of Urbanisation,Global Human Settlement Layer,https://human-settlement.emergency.copernicus.eu/,Every 5 years (last 2020),Direct
+Electricity Access Estimation,,,,
+Education Attainment Estimation,,,,
+GDP per capita Estimation,,,,
+Monthly Income Estimation,,,,
+Rent Estimation,,,,
+Air Quality Index Estimation,WHO air quality database,https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database/2022,Single product (2010 - 2019),Direct
+Air Quality Index Forecasting,,,,
+Water Index Estimation,UN GEMStat,https://gemstat.org/,Irregular updates,Direct
+Deforestation Mapping,Tropical Moist Forests (TMF),https://forobs.jrc.ec.europa.eu/TMF,Yearly,Direct
+Deforestation Forecasting,,,,
+Hurricane Damage Estimation,Satellite Images of Hurricane Damage,https://ieee-dataport.org/open-access/detecting-damaged-buildings-post-hurricane-satellite-imagery-based-customized,Single product (2017 - Hurricane Harvey),Direct
+Child Mortality Estimation,,,,
+Women BMI Estimation,,,,
+Brick Kiln Detection,,,,
+Sanitation Index Estimation,,,,
+Life Expectancy Estimation,,,,
+Human Development Index Estimation,,,,
